@@ -6,11 +6,6 @@ import java.io.IOException;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-/**
- * @author Sophea <a href='mailto:smak@dminc.com'> sophea </a>
- * @version $id$ - $Revision$
- * @date 2017
- */
 public class JsonToJavaObject {
     private static ObjectMapper mapper = new ObjectMapper(); 
     

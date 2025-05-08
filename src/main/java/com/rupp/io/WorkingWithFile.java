@@ -8,7 +8,7 @@ import java.util.List;
 public class WorkingWithFile {
 
     public static void main(String[] args) throws IOException {
-        //String fileName = "/home/sophea/58.txt";
+        //String fileName = "/home/admin/01.txt";
         // somewhere in your code - read content from a file
        // String content = new String(Files.readAllBytes(Paths.get(fileName)));
         //System.out.println(content);

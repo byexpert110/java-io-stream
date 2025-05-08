@@ -11,8 +11,8 @@ public class JavaListToJsonArray {
     private static ObjectMapper mapper = new ObjectMapper(); 
 
     public static void main(String [] args){ 
-      Employee employee1 = new Employee("Sophea", "Mak", 35, "Phone Penh"); 
-      Employee employee2 = new Employee("Kurt", "Angle", 38, "Las Vegas"); 
+      Employee employee1 = new Employee("Admin", " ", 25, " "); 
+      Employee employee2 = new Employee("Manager", " ", 30, " "); 
       try { 
         List<Employee> employees = new ArrayList<>(); 
         employees.add(employee1); 

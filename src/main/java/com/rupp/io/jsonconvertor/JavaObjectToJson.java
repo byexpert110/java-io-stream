@@ -10,7 +10,7 @@ public class JavaObjectToJson {
     private static ObjectMapper mapper = new ObjectMapper();
 
     public static void main(String [] args){
-        Employee employee = new Employee("Sophea", "Mak", 35, "Phnom Penh");
+        Employee employee = new Employee("Admin", " ", 25, " ");
         try {
             // Convert object to JSON string and pretty print
             String employeeAsPrettyString = mapper.writeValueAsString(employee);

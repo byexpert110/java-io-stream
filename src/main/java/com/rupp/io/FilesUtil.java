@@ -16,10 +16,6 @@ import org.apache.commons.io.IOUtils;
 
 /**
  * FilesUtil
- * 
- * @author Sophea <a href='mailto:smak@dminc.com'> sophea </a>
- * @version $id$ - $Revision$
- * @date 2016
  */
 public class FilesUtil {
     private final static Charset UTF_8 = StandardCharsets.UTF_8;

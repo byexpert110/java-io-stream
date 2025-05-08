@@ -12,11 +12,6 @@ import java.util.List;
 
 import org.apache.commons.io.IOUtils;
 
-/**
- * @author Sophea <a href='mailto:smak@dminc.com'> sophea </a>
- * @version $id$ - $Revision$
- * @date 2017
- */
 public class IOUtilsTest {
 
     /**
